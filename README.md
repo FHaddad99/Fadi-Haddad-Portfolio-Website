@@ -1,7 +1,7 @@
 
 # Fadi Haddad's Portfolio Website
 
-Welcome to the repository for Fadi Haddad's portfolio website. This website showcases Fadi's professional work and projects. You can access the live version of the website at [https://fhaddad99.github.io/FadiHaddadPortfolioSite/](https://fhaddad99.github.io/FadiHaddadPortfolioSite/).
+Welcome to the repository for Fadi Haddad's portfolio website. This website showcases Fadi's professional work and projects. You can access the live version of the website at [https://fhaddad99.github.io/Portfolio-Website/](https://fhaddad99.github.io/Portfolio-Website/).
 
 ## About
 
